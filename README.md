@@ -1,2 +1,2 @@
 # hello_world
-just learn to use
+just learn to use github
